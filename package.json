@@ -1,0 +1,23 @@
+{
+  "name": "curso_cypress",
+  "version": "1.0.0",
+  "description": "Testes de aplicações modernas com Cypress -Fracisco Aquino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leaogama/curso_cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leaogama/curso_cypress/issues"
+  },
+  "homepage": "https://github.com/leaogama/curso_cypress#readme",
+  "dependencies": {
+    "cypress": "^3.6.0"
+  }
+}
